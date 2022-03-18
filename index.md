@@ -6,7 +6,7 @@ The Power API is a community-lead specification for an power monitoring and cont
 
 Version 1.0 of the specification is available here: [Community Specification Version 1.0](https://pwrapi.githu.io/files/powerapi_v10.pdf)
 
-# Partners
+# EEHPCWG
 
 The Power API is associated with the Energy Efficient High Performance Working Group effort. You can find the EEHPCWG website at: <https://eehpcwg.llnl.gov"> 
 
