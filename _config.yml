@@ -1,3 +1,6 @@
 theme: jekyll-theme-time-machine
 title: Power API
 description: A Community Specification for Power Monitoring and Control
+github:
+   repository_url: https://github.com/pwrapi/powerapi_spec
+
