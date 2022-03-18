@@ -8,7 +8,7 @@ Version 1.0 of the specification is available here: [Community Specification Ver
 
 # EEHPCWG
 
-The Power API is associated with the Energy Efficient High Performance Working Group effort. You can find the EEHPCWG website at: <https://eehpcwg.llnl.gov"> 
+The Power API is associated with the Energy Efficient High Performance Working Group effort. You can find the EEHPCWG website at: <https://eehpcwg.llnl.gov> 
 
 # Read More
 
