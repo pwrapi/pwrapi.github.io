@@ -1,6 +1,6 @@
 # Introduction
 
-The Power API is a community-lead specification for an power monitoring and control API that supports small scale to extreme-scale systems.
+The Power API is a community-led specification for an power monitoring and control API that supports small-scale to extreme-scale systems.
 
 # Get a copy
 
