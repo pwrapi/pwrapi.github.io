@@ -4,7 +4,7 @@ The Power API is a community-led specification for an power monitoring and contr
 
 # Get a copy
 
-Version 1.0 of the specification is available here: [Community Specification Version 1.0](https://pwrapi.github.io/files/powerapi_v10.pdf)
+Version 1.1 of the specification is available here: [Community Specification Version 1.1](https://pwrapi.github.io/files/powerapi_v11.pdf)
 
 # EEHPCWG
 
